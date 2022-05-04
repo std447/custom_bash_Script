@@ -49,7 +49,7 @@ body{
 
 ### How to use
 
-`Note: This script is to be run at start of your project.`
+`Note: This script is to be run at start of your project.`  
 Steps:  
 1 Save the script on your pc.  
 2 Go to directory of your project.  
