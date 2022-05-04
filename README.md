@@ -2,11 +2,11 @@
 # Bash Script 
 
 This is bash script for creating basic structure of web page.
-Running this script will:- \
-1 - Create a folder "assets" and file "index.html" in current directory.\
-2 - It will Add 3 child folders in assets namely - css, images, js\
-3 - It will create file "main.css" in folder "assets/css"\
-4 - It will create file "main.js" in folder "assets/js"\
+Running this script will:-   
+1 - Create a folder "assets" and file "index.html" in current directory.  
+2 - It will Add 3 child folders in assets namely - css, images, js   
+3 - It will create file "main.css" in folder "assets/css"  
+4 - It will create file "main.js" in folder "assets/js"  
 As shown in following image- **"Output of bashscript"**
 
 ### Output of Bash Script
@@ -53,7 +53,7 @@ body{
 Steps:  
 1 Save the script on your pc.  
 2 Go to directory of your project.  
-    Ex. C:/Users/username/Desktop/WebDevelopment/myProject01/
+    Ex. C:/Users/username/Desktop/WebDevelopment/myProject01/  
 3 Open Git Bash terminal.  
 4 Get absolute path of script and paste in terminal as shown below
 
