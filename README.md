@@ -46,3 +46,22 @@ body{
     padding:0;
 }
 ```
+
+### How to use
+
+`Note: This script is to be run at start of your project.`
+Steps:  
+1 Save the script on your pc.  
+2 Go to directory of your project.  
+    Ex. C:/Users/username/Desktop/WebDevelopment/myProject01/
+3 Open Git Bash terminal.  
+4 Get absolute path of script and paste in terminal as shown below
+
+```bash
+  $ C:/absolute/path/to/script/startproj.sh
+```
+5 Press enter.
+
+This will create index.html and assets in project directory.
+
+`Warning: once script is executed it cannot be undone by pressing Ctrl+Z`
